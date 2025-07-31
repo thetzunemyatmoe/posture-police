@@ -1,0 +1,49 @@
+com.example.posture_test.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-0 /Users/yuyu/.gradle/caches/transforms-3/03aed728b7b013fdb0ee78eeb01c4f70/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/res
+com.example.posture_test.app-core-runtime-2.2.0-1 /Users/yuyu/.gradle/caches/transforms-3/059cceda2ceccaee2d220c95320313d5/transformed/core-runtime-2.2.0/res
+com.example.posture_test.app-localbroadcastmanager-1.1.0-2 /Users/yuyu/.gradle/caches/transforms-3/06856dd54ec6bc01e8dd81175c905b6c/transformed/localbroadcastmanager-1.1.0/res
+com.example.posture_test.app-coordinatorlayout-1.1.0-3 /Users/yuyu/.gradle/caches/transforms-3/150d8161454a7bc5e5f17ef268cff475/transformed/coordinatorlayout-1.1.0/res
+com.example.posture_test.app-jetified-lifecycle-livedata-core-ktx-2.7.0-4 /Users/yuyu/.gradle/caches/transforms-3/170cd53763ba8f7adb4146db3d69b874/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/res
+com.example.posture_test.app-jetified-annotation-experimental-1.4.0-5 /Users/yuyu/.gradle/caches/transforms-3/22c4fd6c3195f761ca1e30b353d07655/transformed/jetified-annotation-experimental-1.4.0/res
+com.example.posture_test.app-material-1.12.0-6 /Users/yuyu/.gradle/caches/transforms-3/26dbc43047719075d8d9bc8b43069033/transformed/material-1.12.0/res
+com.example.posture_test.app-cardview-1.0.0-7 /Users/yuyu/.gradle/caches/transforms-3/28645e1826f29e3f6a52409f395aef0a/transformed/cardview-1.0.0/res
+com.example.posture_test.app-jetified-savedstate-1.2.1-8 /Users/yuyu/.gradle/caches/transforms-3/2c51cff48c4133d7aa1fd8f39564f9fb/transformed/jetified-savedstate-1.2.1/res
+com.example.posture_test.app-drawerlayout-1.1.1-9 /Users/yuyu/.gradle/caches/transforms-3/2e168f2aa76c707567937e3eba519174/transformed/drawerlayout-1.1.1/res
+com.example.posture_test.app-jetified-profileinstaller-1.3.1-10 /Users/yuyu/.gradle/caches/transforms-3/3a651e584a887aa677778d47c9be7a5d/transformed/jetified-profileinstaller-1.3.1/res
+com.example.posture_test.app-room-runtime-2.6.1-11 /Users/yuyu/.gradle/caches/transforms-3/496f2a0b8d0d34af2f871788d6202e97/transformed/room-runtime-2.6.1/res
+com.example.posture_test.app-jetified-window-1.2.0-12 /Users/yuyu/.gradle/caches/transforms-3/49ca8dca74d3fdc122073b7a5974c5d0/transformed/jetified-window-1.2.0/res
+com.example.posture_test.app-recyclerview-1.1.0-13 /Users/yuyu/.gradle/caches/transforms-3/4c2b652f583333af9509b4d9015f1117/transformed/recyclerview-1.1.0/res
+com.example.posture_test.app-jetified-core-ktx-1.13.1-14 /Users/yuyu/.gradle/caches/transforms-3/50387cd88c023d005c13721cd1e42893/transformed/jetified-core-ktx-1.13.1/res
+com.example.posture_test.app-jetified-emoji2-1.3.0-15 /Users/yuyu/.gradle/caches/transforms-3/530d66bf90c7c056850f76cd7bfc17b3/transformed/jetified-emoji2-1.3.0/res
+com.example.posture_test.app-jetified-window-java-1.2.0-16 /Users/yuyu/.gradle/caches/transforms-3/59bb600599ffc39d52050250ec56e1ed/transformed/jetified-window-java-1.2.0/res
+com.example.posture_test.app-lifecycle-livedata-core-2.7.0-17 /Users/yuyu/.gradle/caches/transforms-3/65ce53a4ddfdb59a5b397e30d838cf99/transformed/lifecycle-livedata-core-2.7.0/res
+com.example.posture_test.app-appcompat-1.7.0-18 /Users/yuyu/.gradle/caches/transforms-3/7153df6852b594045fb96b13f4e8996f/transformed/appcompat-1.7.0/res
+com.example.posture_test.app-fragment-1.7.1-19 /Users/yuyu/.gradle/caches/transforms-3/7799b48b7fd3b8774825c296dd579627/transformed/fragment-1.7.1/res
+com.example.posture_test.app-jetified-activity-1.8.1-20 /Users/yuyu/.gradle/caches/transforms-3/79ec32d8a10e17b411b21d078bbf9fd2/transformed/jetified-activity-1.8.1/res
+com.example.posture_test.app-constraintlayout-2.0.1-21 /Users/yuyu/.gradle/caches/transforms-3/813dd36ee77959963a0899320176dd32/transformed/constraintlayout-2.0.1/res
+com.example.posture_test.app-jetified-tracing-1.2.0-22 /Users/yuyu/.gradle/caches/transforms-3/830f0e2b5814c757e69ceb8a857fc725/transformed/jetified-tracing-1.2.0/res
+com.example.posture_test.app-sqlite-2.4.0-23 /Users/yuyu/.gradle/caches/transforms-3/9232f52675506b064e90cac521dff5db/transformed/sqlite-2.4.0/res
+com.example.posture_test.app-core-1.13.1-24 /Users/yuyu/.gradle/caches/transforms-3/9560b4392b8a1575165d2e7541c36546/transformed/core-1.13.1/res
+com.example.posture_test.app-lifecycle-viewmodel-2.7.0-25 /Users/yuyu/.gradle/caches/transforms-3/ac4d71d3da5bf20d2759902ba132196e/transformed/lifecycle-viewmodel-2.7.0/res
+com.example.posture_test.app-lifecycle-livedata-2.7.0-26 /Users/yuyu/.gradle/caches/transforms-3/acc71736c9cd2e1ac61f7931b10b068a/transformed/lifecycle-livedata-2.7.0/res
+com.example.posture_test.app-lifecycle-runtime-2.7.0-27 /Users/yuyu/.gradle/caches/transforms-3/b2a4352c1156d2493282fb6c6534b9de/transformed/lifecycle-runtime-2.7.0/res
+com.example.posture_test.app-jetified-emoji2-views-helper-1.3.0-28 /Users/yuyu/.gradle/caches/transforms-3/be959aa62e96d7c5a9bce3048a436906/transformed/jetified-emoji2-views-helper-1.3.0/res
+com.example.posture_test.app-jetified-core-1.0.0-29 /Users/yuyu/.gradle/caches/transforms-3/c31a4bb5a15a2ee7a96dbe06c89e85f5/transformed/jetified-core-1.0.0/res
+com.example.posture_test.app-jetified-viewpager2-1.0.0-30 /Users/yuyu/.gradle/caches/transforms-3/c574066f1efc1151031ce8742971b5bd/transformed/jetified-viewpager2-1.0.0/res
+com.example.posture_test.app-jetified-appcompat-resources-1.7.0-31 /Users/yuyu/.gradle/caches/transforms-3/c5ecfaa10c7bcb72256bd3f1ebd9e107/transformed/jetified-appcompat-resources-1.7.0/res
+com.example.posture_test.app-jetified-lifecycle-process-2.7.0-32 /Users/yuyu/.gradle/caches/transforms-3/dbde9cdc77876e4df7bbc93ff1556b43/transformed/jetified-lifecycle-process-2.7.0/res
+com.example.posture_test.app-sqlite-framework-2.4.0-33 /Users/yuyu/.gradle/caches/transforms-3/de2c286535c870ace29b5da78ffa96e4/transformed/sqlite-framework-2.4.0/res
+com.example.posture_test.app-transition-1.5.0-34 /Users/yuyu/.gradle/caches/transforms-3/ec90fad1a703c9b8ddde406eb1150f49/transformed/transition-1.5.0/res
+com.example.posture_test.app-media-1.7.0-35 /Users/yuyu/.gradle/caches/transforms-3/ee3fd07c73b0efe678d9b2896f34e265/transformed/media-1.7.0/res
+com.example.posture_test.app-jetified-startup-runtime-1.1.1-36 /Users/yuyu/.gradle/caches/transforms-3/fabdcf8916c57220c7a394d04ce23100/transformed/jetified-startup-runtime-1.1.1/res
+com.example.posture_test.app-debug-37 /Users/yuyu/UoB/Year 03 Sem 02/Mobile Computing/posture_test/android/app/src/debug/res
+com.example.posture_test.app-main-38 /Users/yuyu/UoB/Year 03 Sem 02/Mobile Computing/posture_test/android/app/src/main/res
+com.example.posture_test.app-pngs-39 /Users/yuyu/UoB/Year 03 Sem 02/Mobile Computing/posture_test/build/app/generated/res/pngs/debug
+com.example.posture_test.app-resValues-40 /Users/yuyu/UoB/Year 03 Sem 02/Mobile Computing/posture_test/build/app/generated/res/resValues/debug
+com.example.posture_test.app-packageDebugResources-41 /Users/yuyu/UoB/Year 03 Sem 02/Mobile Computing/posture_test/build/app/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.posture_test.app-packageDebugResources-42 /Users/yuyu/UoB/Year 03 Sem 02/Mobile Computing/posture_test/build/app/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.posture_test.app-merged_res-43 /Users/yuyu/UoB/Year 03 Sem 02/Mobile Computing/posture_test/build/app/intermediates/merged_res/debug
+com.example.posture_test.app-packaged_res-44 /Users/yuyu/UoB/Year 03 Sem 02/Mobile Computing/posture_test/build/awesome_notifications/intermediates/packaged_res/debug
+com.example.posture_test.app-packaged_res-45 /Users/yuyu/UoB/Year 03 Sem 02/Mobile Computing/posture_test/build/device_info_plus/intermediates/packaged_res/debug
+com.example.posture_test.app-packaged_res-46 /Users/yuyu/UoB/Year 03 Sem 02/Mobile Computing/posture_test/build/flutter_blue_plus_android/intermediates/packaged_res/debug
+com.example.posture_test.app-packaged_res-47 /Users/yuyu/UoB/Year 03 Sem 02/Mobile Computing/posture_test/build/permission_handler_android/intermediates/packaged_res/debug
+com.example.posture_test.app-packaged_res-48 /Users/yuyu/UoB/Year 03 Sem 02/Mobile Computing/posture_test/build/vibration/intermediates/packaged_res/debug

@@ -1,0 +1,17 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/yuyu/.pub-cache/hosted/pub.dev/flutter_blue_plus_android-3.0.0/android/src/main/AndroidManifest.xml:1:1-6:12
+INJECTED from /Users/yuyu/.pub-cache/hosted/pub.dev/flutter_blue_plus_android-3.0.0/android/src/main/AndroidManifest.xml:1:1-6:12
+	package
+		ADDED from /Users/yuyu/.pub-cache/hosted/pub.dev/flutter_blue_plus_android-3.0.0/android/src/main/AndroidManifest.xml:1:70-105
+		INJECTED from /Users/yuyu/.pub-cache/hosted/pub.dev/flutter_blue_plus_android-3.0.0/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/yuyu/.pub-cache/hosted/pub.dev/flutter_blue_plus_android-3.0.0/android/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from /Users/yuyu/.pub-cache/hosted/pub.dev/flutter_blue_plus_android-3.0.0/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/yuyu/.pub-cache/hosted/pub.dev/flutter_blue_plus_android-3.0.0/android/src/main/AndroidManifest.xml
+INJECTED from /Users/yuyu/.pub-cache/hosted/pub.dev/flutter_blue_plus_android-3.0.0/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/yuyu/.pub-cache/hosted/pub.dev/flutter_blue_plus_android-3.0.0/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/yuyu/.pub-cache/hosted/pub.dev/flutter_blue_plus_android-3.0.0/android/src/main/AndroidManifest.xml

@@ -1,0 +1,40 @@
+# ===== Flutter (posture_test) =====
+flutter/posture_test/.dart_tool/
+flutter/posture_test/.packages
+flutter/posture_test/.pub/
+flutter/posture_test/build/
+flutter/posture_test/flutter_export_environment.sh
+flutter/posture_test/ios/Flutter/Flutter.framework
+flutter/posture_test/ios/Flutter/Flutter.podspec
+flutter/posture_test/ios/Flutter/Generated.xcconfig
+flutter/posture_test/ios/Runner.xcworkspace/
+flutter/posture_test/.flutter-plugins
+flutter/posture_test/.flutter-plugins-dependencies
+flutter/posture_test/posture_test.iml
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS Specific
+.DS_Store
+Thumbs.db
+
+# ===== Python/Machine Learning =====
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.venv/
+.ipynb_checkpoints/
+
+# ===== Arduino / BLE =====
+*.hex
+*.elf
+*.bin
+
+# Logs
+*.log
